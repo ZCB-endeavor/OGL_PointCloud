@@ -1,8 +1,7 @@
-# OpenGL Point Cloud Viewer
+# OpenGL Stitch Point Cloud Viewer
 
 ## Introduction
-This project realizes the reading of color depth images and concatenation into point cloud display, supporting user interaction using mouse and keyboard.\
-本项目实现了读取彩色深度图像并拼接为点云显示，支持用户使用鼠标和键盘进行交互。
+This project realizes the reading of color depth images and concatenation into point cloud display, supporting user interaction using mouse and keyboard.
 
 ## Demonstration
 <div align="center"> 
@@ -10,8 +9,7 @@ This project realizes the reading of color depth images and concatenation into p
 </div>
 
 ## Dependency
-To run this project, the following dependencies need to be installed.\
-若要运行此项目，需要安装以下依赖项。
+To run this project, the following dependencies need to be installed.
 - OpenCV
 - OpenGL
 - CUDA
